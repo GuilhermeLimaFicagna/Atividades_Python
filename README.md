@@ -1,7 +1,6 @@
 # Atividades de Python
 
 <p>
-    <strong>Do Canal curso em vídeo</strong>
     <img 
         alt="HTML" 
         title="HTML" 
@@ -13,6 +12,6 @@
 
 ---
 
-Todas as atividades realizadas por mim ao longo do curso de Pythony, feito por Gustavo Guanabara do canal Curso em video
+*`Todas as atividades realizadas por mim ao longo do curso de Pythony, feito por Gustavo Guanabara do canal Curso em video`*
 
 ---
