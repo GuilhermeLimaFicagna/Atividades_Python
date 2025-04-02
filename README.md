@@ -12,6 +12,8 @@
 
 ---
 
+*`Feitas na IDE PyCharm`*
+
 *`Todas as atividades realizadas por mim ao longo do curso de Python. Feito por Gustavo Guanabara do canal Curso em video`*
 
 ---
